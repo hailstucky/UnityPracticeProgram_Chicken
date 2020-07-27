@@ -1,0 +1,4 @@
+1,flower,flower,flower
+2,mushroom,mushroom,mushroom
+3,rock,rock,rock
+4,wood,wood,wood
